@@ -1,0 +1,31 @@
+{
+  "discord": {
+    "token": "discord_bot_token",
+    "guild_id": "main_discord_guild_id"
+  },
+
+  "paypal": {
+    "client_id": "paypal_client_id",
+    "client_secret": "paypal_secret"
+  },
+
+  "niftory": {
+    "api_key": "api_key",
+    "client_id": "client_id",
+    "client_secret": "client_secret"
+  },
+
+  "stable_diffusion": {
+    "api_key": "api_key",
+    "api_secret": "api_secret",
+    "token": "encoded token"
+  },
+
+  "database": {
+    "username": "bot",
+    "database": "mindtoy",
+    "password": "123456789",
+    "host": "localhost",
+    "port": "3308"
+  }
+}
